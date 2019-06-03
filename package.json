@@ -6,7 +6,8 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "deploy": "gh-pages -d dist -b master -m 'Update Site [ci skip]'"
   },
   "dependencies": {
     "gridsome": "^0.6.0"

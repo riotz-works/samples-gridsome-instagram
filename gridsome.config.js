@@ -7,6 +7,7 @@
 module.exports = {
   siteName: 'samples-gridsome-instagram',
   siteDescription: 'My Gridsome project for Instagram data source sample',
+  pathPrefix: 'samples-gridsome-instagram',
   plugins: [
     {
       use: '@zefman/gridsome-source-instagram',
