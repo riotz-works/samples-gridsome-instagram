@@ -1,6 +1,7 @@
 {
   "name": "samples-gridsome-instagram",
   "version": "0.0.2",
+  "author": "Riotz.works (https://riotz.works)",
   "private": true,
   "scripts": {
     "build": "gridsome build",

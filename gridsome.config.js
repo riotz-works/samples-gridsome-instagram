@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
-  siteDescription: 'My Gridsome project',
+  siteName: 'samples-gridsome-instagram',
+  siteDescription: 'My Gridsome project for Instagram data source sample',
   plugins: [
     {
       use: '@zefman/gridsome-source-instagram',
