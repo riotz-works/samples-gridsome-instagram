@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "gridsome": "^0.6.0"
+  },
+  "devDependencies": {
+    "@zefman/gridsome-source-instagram": "^0.1.2"
   }
 }
