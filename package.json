@@ -11,6 +11,7 @@
     "gridsome": "^0.6.0"
   },
   "devDependencies": {
-    "@zefman/gridsome-source-instagram": "^0.1.2"
+    "@zefman/gridsome-source-instagram": "^0.1.2",
+    "gh-pages": "^2.0.1"
   }
 }
