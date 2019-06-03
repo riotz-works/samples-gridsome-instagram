@@ -6,5 +6,6 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  siteDescription: 'My Gridsome project',
   plugins: []
 }
